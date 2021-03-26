@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831771703203",
+    "project_id": "student-spark-coin",
+    "storage_bucket": "student-spark-coin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831771703203:android:9ccfbcc84681029218cc16",
+        "android_client_info": {
+          "package_name": "com.onursercanyilmaz.student_spark_coin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831771703203-nibg5rsrft5vtrg9morbe84hhcju9abb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNYNqhZtMVba3TD3-bqGpQ_lHADWEi11I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831771703203-nibg5rsrft5vtrg9morbe84hhcju9abb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
