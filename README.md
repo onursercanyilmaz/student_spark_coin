@@ -1,6 +1,8 @@
 # Student Spark Coin DEMO
 A new Flutter application for Google Solution Challenge 2021
 
+DEMO Video : https://youtu.be/kutMpCyeUoE
+
 ![ssc](https://raw.githubusercontent.com/onursercanyilmaz/student_spark_coin/master/images/StudentCoin_Logo.png)
 
 
