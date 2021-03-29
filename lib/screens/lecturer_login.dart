@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-
-import 'lecturer_login.dart';
+import 'package:student_spark_coin/screens/account.dart';
+import 'package:student_spark_coin/screens/class_list.dart';
+import 'package:student_spark_coin/screens/student_list.dart';
 
 class LecturerLogin extends StatefulWidget {
   @override
@@ -88,7 +89,7 @@ class _LecturerLoginState extends State {
                     Navigator.push(
                       context,
                       MaterialPageRoute(
-                        builder: (context) => LecturerLogin(),
+                        builder: (context) => ClassList(),
                       ),
                     );
                   },

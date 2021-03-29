@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'lecturer_login.dart';
+import 'account.dart';
 
 class StudentLogin extends StatefulWidget {
   @override
@@ -89,7 +89,7 @@ class _StudentLoginState extends State {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (context) => StudentLogin(),
+                      builder: (context) => AccountPage(),
                     ),
                   );
                 },
